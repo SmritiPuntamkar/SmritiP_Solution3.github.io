@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: #898484;
+
+}
+body{
+	background-color: #f8f5f5;
+	color: #0f0101;
+}
+
+
+.center{
+	width: 90%;
+	background-color: #898484;
+
+}
+.container
+{
+	background-color: #898484;
+}
+.text-center{
+	font-size: 30px;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: #0f0101;
+    text-align: center;
+}
+#navbar-brand{
+    font-size: 30px;
+    color: #0f0101;
+}
